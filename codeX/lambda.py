@@ -28,7 +28,7 @@ def myfunc(n):
 mydoubler = myfunc(2)
 mytripler = myfunc(3)
 
-print(Mydoubler(11)) 
-print(myetrpler(11))
-test work
+print(mydoubler(11)) 
+print(mytripler(11))
+
 
