@@ -1,3 +1,4 @@
+git status
 git add .
 cd codeX
 git add .
